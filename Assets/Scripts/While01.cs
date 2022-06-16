@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class While01 : MonoBehaviour
 {
-    //Realizar un programa que muestre los numeros del 1 al 100 utilizando la instrucción while
+    //2. Realizar un programa que muestre los numeros del 1 al 100 utilizando la instrucción while
     int counter = 1;
     int counterMax = 100;
     // Start is called before the first frame update
